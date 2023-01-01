@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MUI-admin-dashboard/static/css/main.0787ddd3.css",
+    "main.js": "/MUI-admin-dashboard/static/js/main.cfb7090f.js",
+    "static/media/user.png": "/MUI-admin-dashboard/static/media/user.7c34bdbd37f3bcf6969e.png",
+    "index.html": "/MUI-admin-dashboard/index.html",
+    "main.0787ddd3.css.map": "/MUI-admin-dashboard/static/css/main.0787ddd3.css.map",
+    "main.cfb7090f.js.map": "/MUI-admin-dashboard/static/js/main.cfb7090f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0787ddd3.css",
+    "static/js/main.cfb7090f.js"
+  ]
+}
